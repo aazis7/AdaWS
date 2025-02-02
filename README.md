@@ -1,6 +1,6 @@
 # AdaWS
 
-AdaWS is a simple web server built on C. This project consists of two main parts: **server** and **client**, which can be run within a single executable, allowing the development and testing of basic HTTP services. The server supports several static endpoints like `/`, `/about`, and `/purpose`, serving HTML files to the client.
+AdaWS is a simple *HTTP Web Server* built on C. This project consists of two main parts: **server** and **client**, which can be run within a single executable, allowing the development and testing of basic HTTP services. The server supports several static endpoints like `/`, `/about`, and `/purpose`, serving HTML files to the client.
 
 
 
