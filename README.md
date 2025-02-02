@@ -78,7 +78,9 @@ If an invalid endpoint requested, the server will return *404 Not Found* respons
 
 ## License
 
-This project is licensed under the MIT License see the [LICENSE](https://github.com/azisuverse/AdaWS/LICENSE) file for the details
+This project is licensed under the MIT License see the [LICENSE](
+https://github.com/azisuverse/AdaWS/blob/main/LICENSE
+) file for the details
 
 ## End Words
 Thanks for visiting and reading this repository, I hope you can contributing and create your new future feature.
