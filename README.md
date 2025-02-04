@@ -18,7 +18,7 @@ AdaWS is a simple *HTTP Web Server* built on C. This project consists of two mai
 git clone https://github.com/azisuverse/AdaWS.git
 ```
 
-2. **Compile the program** using *Makefile* or *Shell Script*
+2. **Compile the program** using *Makefile* or *Bash Script*
 
 - Makefile
 
@@ -26,7 +26,7 @@ git clone https://github.com/azisuverse/AdaWS.git
 make
 ```
 
-- Shell
+- Bash
 
 ```sh
 ./build.sh
@@ -79,8 +79,8 @@ If an invalid endpoint requested, the server will return *404 Not Found* respons
 ## License
 
 This project is licensed under the MIT License see the [LICENSE](
-https://github.com/azisuverse/AdaWS/blob/main/LICENSE
+https://github.com/aazis7/AdaWS/blob/main/LICENSE
 ) file for the details
 
-## End Words
-Thanks for visiting and reading this repository, I hope you can contributing and create your new future feature.
+## Final Touch
+Thanks for visiting and reading this repository, I hope you will make your contribution and make this project more useful, [@aazis7](https://github.com/aazis7)
